@@ -1,0 +1,2 @@
+# go-mock
+go mockテストサンプル
